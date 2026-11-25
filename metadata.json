@@ -1,0 +1,6 @@
+{
+  "name": "Cengiz TV & Radyo — Hazırlayan: Mehmet Cengiz Akdağ",
+  "description": "Hazırlayan: Mehmet Cengiz Akdağ. Mobil, Web ve Android TV Box uyumlu, EPG yayın akışlı, Diyanet namaz vakitleri ve otomatik güncellenen Türkçe canlı TV ve radyo platformu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
